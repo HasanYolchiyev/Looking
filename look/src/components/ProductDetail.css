@@ -1,0 +1,9 @@
+.product-detail {
+  text-align: center;
+  padding: 20px;
+}
+
+.product-detail img {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
